@@ -1,0 +1,23 @@
+{
+  "name": "tamagotchi",
+  "description": "tamagotchi application that required loving care by pressing buttons to feed them, play with them, and put them to sleep",
+  "main": "gulpfile.js",
+  "authors": [
+    "shyamal",
+    "kira"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1"
+  }
+}
